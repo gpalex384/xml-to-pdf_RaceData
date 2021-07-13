@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "gtc.ico;." --add-data "imagen_gtc.jpg;." gui.py
