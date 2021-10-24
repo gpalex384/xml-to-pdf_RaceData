@@ -1,10 +1,10 @@
 from tkinter import *
 from tkinter.filedialog import askopenfilename
-from urllib.parse import MAX_CACHE_SIZE
 from lxml import etree
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 import win32api as box
+import os
 
 ###############
 # RAIZ
@@ -385,7 +385,7 @@ def extrae_info_xml(doc):
         dic_carrera[piloto_key]=dic_piloto
         dic_carrera['Numero_Pilotos']=num_pilotos
     #print(dic_carrera['Piloto_1']['Vuelta_3']['Sector_2'])
-    titulo_archivo=tipo_sesion+'_'+fechaHora.replace('/', '_').replace(':', '')+'_'+pista+'.pdf'
+    titulo_archivo='C:/Sesiones_pdf/'+tipo_sesion+'_'+fechaHora.replace('/', '_').replace(':', '')+'_'+pista+'.pdf'
     generar_pdf(titulo_archivo, dic_carrera)
 
 #MÉTODO SELECCIONAR ARCHIVO
