@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GTC Server 2</ServerName>
+<ClientFuelVisible>2</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1622905543</DateTime>
+<TimeString>2021/06/05 17:05:43</TimeString>
+<Mod>Nascar Gen6</Mod>
+<Season></Season>
+<TrackVenue>USA</TrackVenue>
+<TrackCourse>Circuit of the Americas</TrackCourse>
+<TrackEvent>Circuit of the Americas</TrackEvent>
+<TrackData>C:\Program Files (x86)\Steam\steamapps\common\rFactor 2\Installed\Locations\GTC_COTA_0.90\COTA_RT.mas</TrackData>
+<TrackLength>5496.2</TrackLength>
+<GameVersion>1.1122</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="100000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>15</RaceTime>
+<MechFailRate>0</MechFailRate>
+<DamageMult>0</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>0</TireMult>
+<VehiclesAllowed>|StockCar_2015</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>2147483647</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1622906659</DateTime>
+<TimeString>2021/06/05 17:24:19</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>15</Minutes>
+<Stream>
+<Incident et="73.2">Daniel Burruezo(20) reported contact (0.00) with another vehicle Ben Sharples(10)</Incident>
+<Incident et="73.2">Ben Sharples(10) reported contact (0.00) with another vehicle Daniel Burruezo(20)</Incident>
+<Sector et="84.3">Rick Lepage(17) set new best for sector 2</Sector>
+<Score et="84.3">Rick Lepage(17) lap=0 point=1 t=43.302 et=84.328</Score>
+<Sector et="84.3">Rick Lepage(17) set new best for sector 2</Sector>
+<Score et="84.9">Daniel Burruezo(20) lap=0 point=1 t=43.844 et=84.870</Score>
+<Score et="87.0">Elliott Smith(15) lap=0 point=1 t=45.989 et=87.016</Score>
+<Score et="87.5">Ben Sharples(10) lap=0 point=1 t=46.504 et=87.530</Score>
+<Score et="87.6">John Leclair(8) lap=0 point=1 t=46.600 et=87.627</Score>
+<Score et="88.0">John Calhoun(2) lap=0 point=1 t=46.977 et=88.004</Score>
+<Score et="88.0">Charles Alden(19) lap=0 point=1 t=46.994 et=88.021</Score>
+<Score et="88.4">Kevin Harmyer(1) lap=0 point=1 t=47.328 et=88.355</Score>
+<Score et="88.4">Joey Gase(12) lap=0 point=1 t=47.413 et=88.439</Score>
+<Score et="88.7">Brian Rollins(3) lap=0 point=1 t=47.676 et=88.702</Score>
+<Score et="89.0">Calvin Hoover(4) lap=0 point=1 t=47.981 et=89.007</Score>
+<Score et="89.4">Clive White(0) lap=0 point=1 t=48.350 et=89.376</Score>
+<Score et="89.8">Sam Braxton(14) lap=0 point=1 t=48.736 et=89.762</Score>
+<Score et="90.1">Grant Garfield(6) lap=0 point=1 t=49.084 et=90.111</Score>
+<Score et="90.2">Howard Harris(11) lap=0 point=1 t=49.121 et=90.147</Score>
+<Score et="90.4">Bobby Stevens(16) lap=0 point=1 t=49.325 et=90.351</Score>
+<Score et="90.7">John Garner(18) lap=0 point=1 t=49.593 et=90.620</Score>
+<Score et="90.7">Brian Rolston(9) lap=0 point=1 t=49.686 et=90.712</Score>
+<Score et="91.0">Todd Hillman(13) lap=0 point=1 t=49.925 et=90.952</Score>
+<Score et="91.3">Joey Johnson(7) lap=0 point=1 t=50.295 et=91.322</Score>
+<Score et="91.8">Josh Boswell(5) lap=0 point=1 t=50.732 et=91.759</Score>
+<Incident et="119.0">Todd Hillman(13) reported contact (0.16) with another vehicle Brian Rolston(9)</Incident>
+<Incident et="119.0">Brian Rolston(9) reported contact (0.16) with another vehicle Todd Hillman(13)</Incident>
+<Score et="146.2">Daniel Burruezo(20) lap=0 point=2 t=105.193 et=146.219</Score>
+<Sector et="146.2">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="146.2">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="147.5">Rick Lepage(17) lap=0 point=2 t=106.443 et=147.470</Score>
+<Score et="151.7">Elliott Smith(15) lap=0 point=2 t=110.662 et=151.688</Score>
+<Score et="152.2">Ben Sharples(10) lap=0 point=2 t=111.199 et=152.225</Score>
+<Score et="152.7">Charles Alden(19) lap=0 point=2 t=111.663 et=152.690</Score>
+<Score et="153.1">John Leclair(8) lap=0 point=2 t=112.041 et=153.067</Score>
+<Score et="153.3">Joey Gase(12) lap=0 point=2 t=112.297 et=153.323</Score>
+<Score et="153.8">Kevin Harmyer(1) lap=0 point=2 t=112.749 et=153.775</Score>
+<Score et="154.1">John Calhoun(2) lap=0 point=2 t=113.029 et=154.055</Score>
+<Score et="154.3">Calvin Hoover(4) lap=0 point=2 t=113.240 et=154.266</Score>
+<Score et="154.5">Brian Rollins(3) lap=0 point=2 t=113.489 et=154.516</Score>
+<Incident et="155.0">Calvin Hoover(4) reported contact (0.03) with another vehicle Brian Rollins(3)</Incident>
+<Incident et="155.0">Brian Rollins(3) reported contact (0.03) with another vehicle Calvin Hoover(4)</Incident>
+<Incident et="155.0">Calvin Hoover(4) reported contact (0.03) with another vehicle Brian Rollins(3)</Incident>
+<Incident et="155.0">Brian Rollins(3) reported contact (0.03) with another vehicle Calvin Hoover(4)</Incident>
+<Score et="155.7">Sam Braxton(14) lap=0 point=2 t=114.641 et=155.668</Score>
+<Score et="156.0">Grant Garfield(6) lap=0 point=2 t=114.943 et=155.970</Score>
+<Score et="156.3">Clive White(0) lap=0 point=2 t=115.292 et=156.319</Score>
+<Score et="156.7">Bobby Stevens(16) lap=0 point=2 t=115.657 et=156.684</Score>
+<Score et="157.0">Howard Harris(11) lap=0 point=2 t=115.968 et=156.995</Score>
+<Score et="157.4">John Garner(18) lap=0 point=2 t=116.322 et=157.349</Score>
+<Score et="157.7">Joey Johnson(7) lap=0 point=2 t=116.641 et=157.668</Score>
+<Score et="158.2">Brian Rolston(9) lap=0 point=2 t=117.210 et=158.237</Score>
+<Score et="158.6">Todd Hillman(13) lap=0 point=2 t=117.580 et=158.607</Score>
+<Score et="159.2">Josh Boswell(5) lap=0 point=2 t=118.126 et=159.152</Score>
+<Incident et="162.9">John Garner(18) reported contact (0.03) with another vehicle Brian Rolston(9)</Incident>
+<Incident et="162.9">Brian Rolston(9) reported contact (0.03) with another vehicle John Garner(18)</Incident>
+<Score et="187.5">Daniel Burruezo(20) lap=1 point=0 t=146.436 et=187.463</Score>
+<Sector et="187.5">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Sector et="187.5">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Score et="190.8">Rick Lepage(17) lap=1 point=0 t=149.763 et=190.789</Score>
+<Score et="196.2">Elliott Smith(15) lap=1 point=0 t=155.170 et=196.197</Score>
+<Score et="196.9">Ben Sharples(10) lap=1 point=0 t=155.822 et=196.849</Score>
+<Score et="197.6">Charles Alden(19) lap=1 point=0 t=156.559 et=197.585</Score>
+<Score et="197.9">John Leclair(8) lap=1 point=0 t=156.868 et=197.894</Score>
+<Score et="198.0">Joey Gase(12) lap=1 point=0 t=156.966 et=197.993</Score>
+<Score et="198.5">John Calhoun(2) lap=1 point=0 t=157.495 et=198.522</Score>
+<Score et="198.7">Kevin Harmyer(1) lap=1 point=0 t=157.673 et=198.699</Score>
+<Score et="199.2">Sam Braxton(14) lap=1 point=0 t=158.137 et=199.163</Score>
+<Score et="200.8">Calvin Hoover(4) lap=1 point=0 t=159.770 et=200.797</Score>
+<Score et="200.9">Brian Rollins(3) lap=1 point=0 t=159.871 et=200.898</Score>
+<Score et="201.5">Grant Garfield(6) lap=1 point=0 t=160.443 et=201.470</Score>
+<Score et="201.7">Bobby Stevens(16) lap=1 point=0 t=160.656 et=201.683</Score>
+<Score et="201.8">Clive White(0) lap=1 point=0 t=160.788 et=201.815</Score>
+<Score et="202.2">Howard Harris(11) lap=1 point=0 t=161.192 et=202.218</Score>
+<Score et="202.7">Brian Rolston(9) lap=1 point=0 t=161.696 et=202.722</Score>
+<Score et="202.9">John Garner(18) lap=1 point=0 t=161.844 et=202.870</Score>
+<Score et="203.3">Joey Johnson(7) lap=1 point=0 t=162.312 et=203.339</Score>
+<Score et="203.6">Todd Hillman(13) lap=1 point=0 t=162.542 et=203.569</Score>
+<Score et="204.3">Josh Boswell(5) lap=1 point=0 t=163.308 et=204.335</Score>
+<Score et="220.2">Daniel Burruezo(20) lap=1 point=1 t=32.698 et=220.161</Score>
+<Sector et="220.2">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="220.2">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="226.3">Rick Lepage(17) lap=1 point=1 t=35.520 et=226.310</Score>
+<Score et="232.4">Elliott Smith(15) lap=1 point=1 t=36.219 et=232.416</Score>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.29) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.39) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.26) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.29) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.42) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.29) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.32) with Immovable</Incident>
+<Incident et="232.5">Daniel Burruezo(20) reported contact (0.00) with Immovable</Incident>
+<Score et="233.0">Ben Sharples(10) lap=1 point=1 t=36.129 et=232.978</Score>
+<Score et="233.8">Charles Alden(19) lap=1 point=1 t=36.245 et=233.831</Score>
+<Score et="234.7">John Leclair(8) lap=1 point=1 t=36.810 et=234.704</Score>
+<Score et="235.3">John Calhoun(2) lap=1 point=1 t=36.750 et=235.273</Score>
+<Score et="235.5">Joey Gase(12) lap=1 point=1 t=37.505 et=235.498</Score>
+<Score et="236.3">Kevin Harmyer(1) lap=1 point=1 t=37.553 et=236.253</Score>
+<Score et="237.1">Sam Braxton(14) lap=1 point=1 t=37.931 et=237.095</Score>
+<Score et="237.5">Brian Rollins(3) lap=1 point=1 t=36.556 et=237.454</Score>
+<Score et="237.8">Calvin Hoover(4) lap=1 point=1 t=37.012 et=237.809</Score>
+<Score et="238.2">Bobby Stevens(16) lap=1 point=1 t=36.553 et=238.236</Score>
+<Score et="238.8">Grant Garfield(6) lap=1 point=1 t=37.275 et=238.744</Score>
+<Score et="239.1">Howard Harris(11) lap=1 point=1 t=36.833 et=239.051</Score>
+<Score et="239.5">Clive White(0) lap=1 point=1 t=37.674 et=239.489</Score>
+<Score et="239.9">Brian Rolston(9) lap=1 point=1 t=37.199 et=239.921</Score>
+<Score et="240.3">John Garner(18) lap=1 point=1 t=37.400 et=240.271</Score>
+<Score et="240.7">Todd Hillman(13) lap=1 point=1 t=37.156 et=240.725</Score>
+<Score et="241.1">Joey Johnson(7) lap=1 point=1 t=37.737 et=241.076</Score>
+<Score et="241.9">Josh Boswell(5) lap=1 point=1 t=37.601 et=241.936</Score>
+<Score et="284.2">Daniel Burruezo(20) lap=1 point=2 t=96.731 et=284.194</Score>
+<Sector et="284.2">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="284.2">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="289.6">Rick Lepage(17) lap=1 point=2 t=98.790 et=289.579</Score>
+<Score et="296.9">Elliott Smith(15) lap=1 point=2 t=100.648 et=296.845</Score>
+<Score et="297.2">Ben Sharples(10) lap=1 point=2 t=100.345 et=297.194</Score>
+<Score et="298.6">Charles Alden(19) lap=1 point=2 t=100.960 et=298.545</Score>
+<Score et="298.8">John Leclair(8) lap=1 point=2 t=100.929 et=298.824</Score>
+<Score et="299.3">John Calhoun(2) lap=1 point=2 t=100.806 et=299.328</Score>
+<Score et="299.8">Joey Gase(12) lap=1 point=2 t=101.809 et=299.801</Score>
+<Score et="301.6">Kevin Harmyer(1) lap=1 point=2 t=102.852 et=301.551</Score>
+<Score et="302.2">Sam Braxton(14) lap=1 point=2 t=103.017 et=302.180</Score>
+<Score et="302.4">Brian Rollins(3) lap=1 point=2 t=101.534 et=302.432</Score>
+<Score et="302.7">Calvin Hoover(4) lap=1 point=2 t=101.911 et=302.707</Score>
+<Score et="303.0">Grant Garfield(6) lap=1 point=2 t=101.475 et=302.945</Score>
+<Score et="303.2">Bobby Stevens(16) lap=1 point=2 t=101.543 et=303.226</Score>
+<Score et="303.6">Brian Rolston(9) lap=1 point=2 t=100.843 et=303.566</Score>
+<Score et="304.2">Howard Harris(11) lap=1 point=2 t=101.977 et=304.195</Score>
+<Score et="304.6">Clive White(0) lap=1 point=2 t=102.789 et=304.604</Score>
+<Score et="306.0">John Garner(18) lap=1 point=2 t=103.136 et=306.007</Score>
+<Score et="306.5">Todd Hillman(13) lap=1 point=2 t=102.896 et=306.465</Score>
+<Score et="306.9">Joey Johnson(7) lap=1 point=2 t=103.510 et=306.849</Score>
+<Score et="307.3">Josh Boswell(5) lap=1 point=2 t=102.917 et=307.252</Score>
+<Score et="327.2">Daniel Burruezo(20) lap=2 point=0 t=139.732 et=327.195</Score>
+<Sector et="327.2">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Sector et="327.2">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Score et="332.6">Rick Lepage(17) lap=2 point=0 t=141.776 et=332.565</Score>
+<Score et="341.3">Elliott Smith(15) lap=2 point=0 t=145.138 et=341.334</Score>
+<Score et="342.1">Ben Sharples(10) lap=2 point=0 t=145.281 et=342.130</Score>
+<Score et="343.3">Charles Alden(19) lap=2 point=0 t=145.677 et=343.262</Score>
+<Score et="343.7">John Leclair(8) lap=2 point=0 t=145.819 et=343.713</Score>
+<Score et="344.2">John Calhoun(2) lap=2 point=0 t=145.714 et=344.236</Score>
+<Score et="344.4">Joey Gase(12) lap=2 point=0 t=146.418 et=344.411</Score>
+<Score et="346.1">Kevin Harmyer(1) lap=2 point=0 t=147.405 et=346.104</Score>
+<Score et="346.9">Sam Braxton(14) lap=2 point=0 t=147.748 et=346.911</Score>
+<Score et="347.5">Brian Rollins(3) lap=2 point=0 t=146.638 et=347.536</Score>
+<Score et="347.9">Calvin Hoover(4) lap=2 point=0 t=147.094 et=347.891</Score>
+<Score et="348.1">Grant Garfield(6) lap=2 point=0 t=146.594 et=348.064</Score>
+<Score et="348.5">Bobby Stevens(16) lap=2 point=0 t=146.783 et=348.466</Score>
+<Score et="348.9">Brian Rolston(9) lap=2 point=0 t=146.120 et=348.842</Score>
+<Score et="349.1">Howard Harris(11) lap=2 point=0 t=146.857 et=349.076</Score>
+<Score et="349.4">Clive White(0) lap=2 point=0 t=147.562 et=349.377</Score>
+<Score et="349.9">John Garner(18) lap=2 point=0 t=147.049 et=349.920</Score>
+<Score et="351.2">Todd Hillman(13) lap=2 point=0 t=147.633 et=351.202</Score>
+<Score et="351.9">Joey Johnson(7) lap=2 point=0 t=148.526 et=351.865</Score>
+<Score et="352.5">Josh Boswell(5) lap=2 point=0 t=148.181 et=352.515</Score>
+<Score et="359.7">Daniel Burruezo(20) lap=2 point=1 t=32.485 et=359.680</Score>
+<Sector et="359.7">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="359.7">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="368.4">Rick Lepage(17) lap=2 point=1 t=35.855 et=368.420</Score>
+<Score et="377.7">Elliott Smith(15) lap=2 point=1 t=36.308 et=377.642</Score>
+<Score et="378.4">Ben Sharples(10) lap=2 point=1 t=36.271 et=378.401</Score>
+<Score et="379.7">Charles Alden(19) lap=2 point=1 t=36.398 et=379.660</Score>
+<Score et="380.3">John Leclair(8) lap=2 point=1 t=36.586 et=380.299</Score>
+<Score et="380.8">John Calhoun(2) lap=2 point=1 t=36.564 et=380.800</Score>
+<Score et="381.5">Joey Gase(12) lap=2 point=1 t=37.075 et=381.486</Score>
+<Score et="382.6">Kevin Harmyer(1) lap=2 point=1 t=36.520 et=382.624</Score>
+<Score et="383.2">Sam Braxton(14) lap=2 point=1 t=36.231 et=383.143</Score>
+<Score et="384.0">Brian Rollins(3) lap=2 point=1 t=36.486 et=384.022</Score>
+<Score et="384.5">Grant Garfield(6) lap=2 point=1 t=36.454 et=384.518</Score>
+<Score et="385.1">Calvin Hoover(4) lap=2 point=1 t=37.185 et=385.076</Score>
+<Score et="385.5">Bobby Stevens(16) lap=2 point=1 t=36.996 et=385.462</Score>
+<Score et="386.0">Brian Rolston(9) lap=2 point=1 t=37.193 et=386.036</Score>
+<Score et="386.4">Howard Harris(11) lap=2 point=1 t=37.356 et=386.431</Score>
+<Score et="386.9">Clive White(0) lap=2 point=1 t=37.494 et=386.870</Score>
+<Score et="387.3">John Garner(18) lap=2 point=1 t=37.325 et=387.245</Score>
+<Score et="387.8">Todd Hillman(13) lap=2 point=1 t=36.623 et=387.825</Score>
+<Score et="388.4">Joey Johnson(7) lap=2 point=1 t=36.570 et=388.435</Score>
+<Score et="389.3">Josh Boswell(5) lap=2 point=1 t=36.743 et=389.259</Score>
+<Score et="419.8">Daniel Burruezo(20) lap=2 point=2 t=92.591 et=419.785</Score>
+<Sector et="419.8">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="419.8">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="431.2">Rick Lepage(17) lap=2 point=2 t=98.609 et=431.175</Score>
+<Score et="442.2">Elliott Smith(15) lap=2 point=2 t=100.882 et=442.216</Score>
+<Score et="442.7">Ben Sharples(10) lap=2 point=2 t=100.516 et=442.646</Score>
+<Score et="443.8">Charles Alden(19) lap=2 point=2 t=100.505 et=443.767</Score>
+<Score et="444.3">John Leclair(8) lap=2 point=2 t=100.587 et=444.300</Score>
+<Score et="444.9">John Calhoun(2) lap=2 point=2 t=100.656 et=444.892</Score>
+<Score et="446.1">Joey Gase(12) lap=2 point=2 t=101.708 et=446.119</Score>
+<Score et="446.7">Kevin Harmyer(1) lap=2 point=2 t=100.571 et=446.675</Score>
+<Score et="447.2">Sam Braxton(14) lap=2 point=2 t=100.269 et=447.181</Score>
+<Score et="448.8">Brian Rollins(3) lap=2 point=2 t=101.207 et=448.743</Score>
+<Score et="449.1">Grant Garfield(6) lap=2 point=2 t=100.999 et=449.063</Score>
+<Score et="450.0">Calvin Hoover(4) lap=2 point=2 t=102.136 et=450.026</Score>
+<Score et="450.3">Bobby Stevens(16) lap=2 point=2 t=101.805 et=450.271</Score>
+<Score et="450.6">Brian Rolston(9) lap=2 point=2 t=101.718 et=450.561</Score>
+<Score et="451.0">Howard Harris(11) lap=2 point=2 t=101.900 et=450.976</Score>
+<Score et="451.3">Clive White(0) lap=2 point=2 t=101.890 et=451.266</Score>
+<Score et="452.8">John Garner(18) lap=2 point=2 t=102.837 et=452.757</Score>
+<Score et="453.1">Joey Johnson(7) lap=2 point=2 t=101.186 et=453.051</Score>
+<Score et="453.7">Todd Hillman(13) lap=2 point=2 t=102.510 et=453.711</Score>
+<Score et="454.2">Josh Boswell(5) lap=2 point=2 t=101.713 et=454.228</Score>
+<Score et="461.6">Daniel Burruezo(20) lap=3 point=0 t=134.423 et=461.618</Score>
+<Sector et="461.6">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Sector et="461.6">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Score et="474.4">Rick Lepage(17) lap=3 point=0 t=141.784 et=474.350</Score>
+<Score et="486.8">Elliott Smith(15) lap=3 point=0 t=145.416 et=486.750</Score>
+<Score et="487.4">Ben Sharples(10) lap=3 point=0 t=145.276 et=487.406</Score>
+<Score et="487.7">Charles Alden(19) lap=3 point=0 t=144.415 et=487.677</Score>
+<Score et="487.9">John Leclair(8) lap=3 point=0 t=144.186 et=487.900</Score>
+<Score et="489.5">John Calhoun(2) lap=3 point=0 t=145.206 et=489.443</Score>
+<Score et="490.9">Joey Gase(12) lap=3 point=0 t=146.463 et=490.874</Score>
+<Score et="491.5">Kevin Harmyer(1) lap=3 point=0 t=145.431 et=491.536</Score>
+<Score et="491.7">Sam Braxton(14) lap=3 point=0 t=144.808 et=491.719</Score>
+<Score et="493.4">Brian Rollins(3) lap=3 point=0 t=145.867 et=493.403</Score>
+<Score et="494.2">Grant Garfield(6) lap=3 point=0 t=146.103 et=494.167</Score>
+<Score et="494.8">Calvin Hoover(4) lap=3 point=0 t=146.865 et=494.756</Score>
+<Score et="495.1">Bobby Stevens(16) lap=3 point=0 t=146.632 et=495.098</Score>
+<Score et="495.3">Brian Rolston(9) lap=3 point=0 t=146.452 et=495.294</Score>
+<Score et="496.2">Howard Harris(11) lap=3 point=0 t=147.156 et=496.232</Score>
+<Score et="496.4">Clive White(0) lap=3 point=0 t=147.016 et=496.392</Score>
+<Score et="496.8">John Garner(18) lap=3 point=0 t=146.862 et=496.782</Score>
+<Score et="497.6">Joey Johnson(7) lap=3 point=0 t=145.752 et=497.617</Score>
+<Score et="497.9">Todd Hillman(13) lap=3 point=0 t=146.678 et=497.880</Score>
+<Score et="498.6">Josh Boswell(5) lap=3 point=0 t=146.076 et=498.591</Score>
+<Score et="502.8">Daniel Burruezo(20) lap=3 point=1 t=41.175 et=502.792</Score>
+<Sector et="502.8">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="502.8">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="510.1">Rick Lepage(17) lap=3 point=1 t=35.736 et=510.085</Score>
+<Score et="523.0">Elliott Smith(15) lap=3 point=1 t=36.251 et=523.001</Score>
+<Score et="523.9">Ben Sharples(10) lap=3 point=1 t=36.457 et=523.863</Score>
+<Score et="524.4">Charles Alden(19) lap=3 point=1 t=36.687 et=524.365</Score>
+<Score et="524.9">John Leclair(8) lap=3 point=1 t=37.021 et=524.921</Score>
+<Score et="525.7">John Calhoun(2) lap=3 point=1 t=36.210 et=525.652</Score>
+<Score et="526.9">Joey Gase(12) lap=3 point=1 t=36.047 et=526.922</Score>
+<Score et="527.8">Kevin Harmyer(1) lap=3 point=1 t=36.224 et=527.760</Score>
+<Score et="528.6">Sam Braxton(14) lap=3 point=1 t=36.844 et=528.564</Score>
+<Score et="529.7">Brian Rollins(3) lap=3 point=1 t=36.313 et=529.716</Score>
+<Score et="530.5">Grant Garfield(6) lap=3 point=1 t=36.347 et=530.513</Score>
+<Score et="531.2">Brian Rolston(9) lap=3 point=1 t=35.862 et=531.156</Score>
+<Score et="531.7">Calvin Hoover(4) lap=3 point=1 t=36.974 et=531.730</Score>
+<Score et="532.2">Bobby Stevens(16) lap=3 point=1 t=37.078 et=532.175</Score>
+<Score et="532.7">Clive White(0) lap=3 point=1 t=36.261 et=532.654</Score>
+<Score et="533.1">Howard Harris(11) lap=3 point=1 t=36.868 et=533.100</Score>
+<Score et="533.8">John Garner(18) lap=3 point=1 t=37.019 et=533.801</Score>
+<Score et="534.3">Joey Johnson(7) lap=3 point=1 t=36.644 et=534.260</Score>
+<Score et="535.3">Todd Hillman(13) lap=3 point=1 t=37.370 et=535.250</Score>
+<Score et="535.9">Josh Boswell(5) lap=3 point=1 t=37.251 et=535.843</Score>
+<Score et="568.4">Daniel Burruezo(20) lap=3 point=2 t=106.739 et=568.357</Score>
+<Sector et="568.4">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="568.4">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="573.2">Rick Lepage(17) lap=3 point=2 t=98.835 et=573.184</Score>
+<Score et="587.5">Elliott Smith(15) lap=3 point=2 t=100.702 et=587.452</Score>
+<Score et="588.2">Charles Alden(19) lap=3 point=2 t=100.487 et=588.165</Score>
+<Score et="588.6">Ben Sharples(10) lap=3 point=2 t=101.204 et=588.610</Score>
+<Score et="589.1">John Leclair(8) lap=3 point=2 t=101.169 et=589.069</Score>
+<Score et="590.5">John Calhoun(2) lap=3 point=2 t=101.030 et=590.473</Score>
+<Score et="591.3">Joey Gase(12) lap=3 point=2 t=100.367 et=591.241</Score>
+<Score et="592.4">Kevin Harmyer(1) lap=3 point=2 t=100.822 et=592.358</Score>
+<Score et="593.0">Sam Braxton(14) lap=3 point=2 t=101.277 et=592.997</Score>
+<Score et="594.0">Brian Rollins(3) lap=3 point=2 t=100.609 et=594.012</Score>
+<Score et="595.2">Grant Garfield(6) lap=3 point=2 t=101.027 et=595.193</Score>
+<Score et="595.6">Brian Rolston(9) lap=3 point=2 t=100.317 et=595.611</Score>
+<Score et="596.1">Calvin Hoover(4) lap=3 point=2 t=101.301 et=596.057</Score>
+<Score et="596.3">Clive White(0) lap=3 point=2 t=99.924 et=596.316</Score>
+<Score et="598.5">Bobby Stevens(16) lap=3 point=2 t=103.344 et=598.442</Score>
+<Score et="598.6">Howard Harris(11) lap=3 point=2 t=102.401 et=598.633</Score>
+<Score et="598.7">John Garner(18) lap=3 point=2 t=101.935 et=598.716</Score>
+<Score et="599.5">Joey Johnson(7) lap=3 point=2 t=101.834 et=599.451</Score>
+<Score et="599.8">Josh Boswell(5) lap=3 point=2 t=101.231 et=599.823</Score>
+<Score et="600.7">Todd Hillman(13) lap=3 point=2 t=102.794 et=600.674</Score>
+<Score et="611.1">Daniel Burruezo(20) lap=4 point=0 t=149.493 et=611.111</Score>
+<Score et="616.3">Rick Lepage(17) lap=4 point=0 t=141.916 et=616.266</Score>
+<Incident et="626.1">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+<Incident et="626.1">Daniel Burruezo(20) reported contact (0.13) with Immovable</Incident>
+<Incident et="626.2">Daniel Burruezo(20) reported contact (0.03) with Immovable</Incident>
+<Score et="631.8">Elliott Smith(15) lap=4 point=0 t=145.020 et=631.770</Score>
+<Score et="632.6">Charles Alden(19) lap=4 point=0 t=144.881 et=632.558</Score>
+<Score et="633.4">Ben Sharples(10) lap=4 point=0 t=145.993 et=633.400</Score>
+<Score et="633.7">John Leclair(8) lap=4 point=0 t=145.818 et=633.717</Score>
+<Score et="635.1">John Calhoun(2) lap=4 point=0 t=145.670 et=635.113</Score>
+<Score et="635.8">Joey Gase(12) lap=4 point=0 t=144.904 et=635.779</Score>
+<Score et="636.7">Kevin Harmyer(1) lap=4 point=0 t=145.109 et=636.645</Score>
+<Score et="637.4">Sam Braxton(14) lap=4 point=0 t=145.657 et=637.377</Score>
+<Score et="638.4">Brian Rollins(3) lap=4 point=0 t=144.968 et=638.371</Score>
+<Score et="639.9">Grant Garfield(6) lap=4 point=0 t=145.772 et=639.938</Score>
+<Score et="640.8">Brian Rolston(9) lap=4 point=0 t=145.480 et=640.774</Score>
+<Score et="641.3">Calvin Hoover(4) lap=4 point=0 t=146.492 et=641.248</Score>
+<Score et="641.5">Clive White(0) lap=4 point=0 t=145.088 et=641.480</Score>
+<Score et="642.4">John Garner(18) lap=4 point=0 t=145.651 et=642.433</Score>
+<Score et="643.5">Bobby Stevens(16) lap=4 point=0 t=148.352 et=643.450</Score>
+<Score et="643.9">Joey Johnson(7) lap=4 point=0 t=146.272 et=643.889</Score>
+<Score et="644.1">Howard Harris(11) lap=4 point=0 t=147.897 et=644.129</Score>
+<Score et="644.2">Josh Boswell(5) lap=4 point=0 t=145.570 et=644.162</Score>
+<Score et="645.5">Todd Hillman(13) lap=4 point=0 t=147.645 et=645.525</Score>
+<Score et="648.3">Daniel Burruezo(20) lap=4 point=1 t=37.169 et=648.280</Score>
+<Sector et="648.3">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="648.3">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="652.2">Rick Lepage(17) lap=4 point=1 t=35.937 et=652.202</Score>
+<Score et="668.0">Elliott Smith(15) lap=4 point=1 t=36.178 et=667.948</Score>
+<Score et="668.8">Charles Alden(19) lap=4 point=1 t=36.185 et=668.743</Score>
+<Score et="669.6">Ben Sharples(10) lap=4 point=1 t=36.202 et=669.602</Score>
+<Score et="670.4">John Leclair(8) lap=4 point=1 t=36.673 et=670.390</Score>
+<Score et="671.3">John Calhoun(2) lap=4 point=1 t=36.138 et=671.252</Score>
+<Score et="672.2">Joey Gase(12) lap=4 point=1 t=36.384 et=672.162</Score>
+<Score et="673.0">Kevin Harmyer(1) lap=4 point=1 t=36.300 et=672.944</Score>
+<Score et="673.7">Sam Braxton(14) lap=4 point=1 t=36.329 et=673.706</Score>
+<Score et="674.9">Brian Rollins(3) lap=4 point=1 t=36.488 et=674.859</Score>
+<Score et="676.4">Grant Garfield(6) lap=4 point=1 t=36.436 et=676.374</Score>
+<Score et="677.1">Brian Rolston(9) lap=4 point=1 t=36.272 et=677.045</Score>
+<Score et="677.6">Calvin Hoover(4) lap=4 point=1 t=36.371 et=677.618</Score>
+<Score et="678.0">Clive White(0) lap=4 point=1 t=36.511 et=677.991</Score>
+<Score et="679.2">John Garner(18) lap=4 point=1 t=36.734 et=679.167</Score>
+<Score et="679.8">Bobby Stevens(16) lap=4 point=1 t=36.311 et=679.761</Score>
+<Score et="680.5">Joey Johnson(7) lap=4 point=1 t=36.567 et=680.456</Score>
+<Score et="681.2">Howard Harris(11) lap=4 point=1 t=37.019 et=681.147</Score>
+<Score et="681.8">Josh Boswell(5) lap=4 point=1 t=37.664 et=681.826</Score>
+<Score et="682.2">Todd Hillman(13) lap=4 point=1 t=36.623 et=682.148</Score>
+<Score et="710.7">Daniel Burruezo(20) lap=4 point=2 t=99.535 et=710.646</Score>
+<Sector et="710.7">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="710.7">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="715.2">Rick Lepage(17) lap=4 point=2 t=98.948 et=715.214</Score>
+<Score et="732.2">Elliott Smith(15) lap=4 point=2 t=100.373 et=732.143</Score>
+<Score et="733.0">Charles Alden(19) lap=4 point=2 t=100.435 et=732.994</Score>
+<Score et="733.8">Ben Sharples(10) lap=4 point=2 t=100.417 et=733.817</Score>
+<Score et="734.2">John Leclair(8) lap=4 point=2 t=100.424 et=734.141</Score>
+<Score et="734.9">John Calhoun(2) lap=4 point=2 t=99.827 et=734.940</Score>
+<Score et="735.5">Joey Gase(12) lap=4 point=2 t=99.693 et=735.472</Score>
+<Score et="736.1">Kevin Harmyer(1) lap=4 point=2 t=99.428 et=736.072</Score>
+<Score et="738.2">Sam Braxton(14) lap=4 point=2 t=100.775 et=738.152</Score>
+<Score et="738.8">Brian Rollins(3) lap=4 point=2 t=100.465 et=738.836</Score>
+<Score et="740.7">Grant Garfield(6) lap=4 point=2 t=100.710 et=740.649</Score>
+<Score et="741.1">Calvin Hoover(4) lap=4 point=2 t=99.852 et=741.100</Score>
+<Score et="741.2">Brian Rolston(9) lap=4 point=2 t=100.416 et=741.190</Score>
+<Score et="741.8">Clive White(0) lap=4 point=2 t=100.299 et=741.779</Score>
+<Score et="743.2">John Garner(18) lap=4 point=2 t=100.794 et=743.227</Score>
+<Score et="743.5">Bobby Stevens(16) lap=4 point=2 t=100.071 et=743.521</Score>
+<Score et="745.2">Joey Johnson(7) lap=4 point=2 t=101.289 et=745.177</Score>
+<Score et="745.8">Howard Harris(11) lap=4 point=2 t=101.627 et=745.756</Score>
+<Score et="746.0">Josh Boswell(5) lap=4 point=2 t=101.865 et=746.027</Score>
+<Score et="746.4">Todd Hillman(13) lap=4 point=2 t=100.837 et=746.362</Score>
+<Score et="752.0">Daniel Burruezo(20) lap=5 point=0 t=140.889 et=752.000</Score>
+<Score et="758.6">Rick Lepage(17) lap=5 point=0 t=142.296 et=758.562</Score>
+<Score et="776.8">Elliott Smith(15) lap=5 point=0 t=145.029 et=776.800</Score>
+<Score et="777.4">Charles Alden(19) lap=5 point=0 t=144.808 et=777.366</Score>
+<Score et="778.1">Ben Sharples(10) lap=5 point=0 t=144.656 et=778.056</Score>
+<Score et="779.1">John Leclair(8) lap=5 point=0 t=145.332 et=779.050</Score>
+<Score et="779.5">John Calhoun(2) lap=5 point=0 t=144.348 et=779.461</Score>
+<Score et="780.0">Joey Gase(12) lap=5 point=0 t=144.233 et=780.011</Score>
+<Score et="780.5">Kevin Harmyer(1) lap=5 point=0 t=143.884 et=780.528</Score>
+<Score et="782.9">Sam Braxton(14) lap=5 point=0 t=145.476 et=782.853</Score>
+<Score et="783.3">Brian Rollins(3) lap=5 point=0 t=144.957 et=783.328</Score>
+<Score et="784.6">Daniel Burruezo(20) lap=5 point=1 t=32.551 et=784.551</Score>
+<Sector et="784.6">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="784.6">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="785.2">Grant Garfield(6) lap=5 point=0 t=145.265 et=785.203</Score>
+<Score et="785.8">Brian Rolston(9) lap=5 point=0 t=144.977 et=785.751</Score>
+<Score et="786.0">Calvin Hoover(4) lap=5 point=0 t=144.701 et=785.949</Score>
+<Score et="786.5">Clive White(0) lap=5 point=0 t=144.997 et=786.476</Score>
+<Score et="787.9">John Garner(18) lap=5 point=0 t=145.497 et=787.930</Score>
+<Score et="788.1">Bobby Stevens(16) lap=5 point=0 t=144.654 et=788.104</Score>
+<Score et="789.5">Joey Johnson(7) lap=5 point=0 t=145.626 et=789.514</Score>
+<Score et="790.2">Howard Harris(11) lap=5 point=0 t=146.107 et=790.236</Score>
+<Score et="790.8">Josh Boswell(5) lap=5 point=0 t=146.640 et=790.802</Score>
+<Score et="791.0">Todd Hillman(13) lap=5 point=0 t=145.511 et=791.036</Score>
+<Score et="794.3">Rick Lepage(17) lap=5 point=1 t=35.692 et=794.254</Score>
+<Score et="812.9">Elliott Smith(15) lap=5 point=1 t=36.114 et=812.913</Score>
+<Score et="813.6">Charles Alden(19) lap=5 point=1 t=36.232 et=813.597</Score>
+<Score et="814.3">Ben Sharples(10) lap=5 point=1 t=36.226 et=814.282</Score>
+<Score et="815.3">John Leclair(8) lap=5 point=1 t=36.260 et=815.310</Score>
+<Score et="816.1">John Calhoun(2) lap=5 point=1 t=36.625 et=816.087</Score>
+<Score et="816.7">Joey Gase(12) lap=5 point=1 t=36.666 et=816.677</Score>
+<Score et="817.4">Kevin Harmyer(1) lap=5 point=1 t=36.843 et=817.371</Score>
+<Score et="819.1">Sam Braxton(14) lap=5 point=1 t=36.241 et=819.094</Score>
+<Score et="819.7">Brian Rollins(3) lap=5 point=1 t=36.383 et=819.711</Score>
+<Score et="821.4">Grant Garfield(6) lap=5 point=1 t=36.219 et=821.422</Score>
+<Score et="822.0">Brian Rolston(9) lap=5 point=1 t=36.203 et=821.954</Score>
+<Score et="822.5">Calvin Hoover(4) lap=5 point=1 t=36.533 et=822.482</Score>
+<Score et="822.9">Clive White(0) lap=5 point=1 t=36.423 et=822.900</Score>
+<Score et="823.9">Bobby Stevens(16) lap=5 point=1 t=35.797 et=823.901</Score>
+<Score et="824.3">John Garner(18) lap=5 point=1 t=36.362 et=824.292</Score>
+<Score et="825.6">Joey Johnson(7) lap=5 point=1 t=36.092 et=825.607</Score>
+<Score et="826.5">Howard Harris(11) lap=5 point=1 t=36.260 et=826.496</Score>
+<Score et="827.4">Josh Boswell(5) lap=5 point=1 t=36.606 et=827.408</Score>
+<Score et="828.1">Todd Hillman(13) lap=5 point=1 t=37.044 et=828.079</Score>
+<Score et="844.3">Daniel Burruezo(20) lap=5 point=2 t=92.311 et=844.311</Score>
+<Sector et="844.3">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="844.3">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="856.9">Rick Lepage(17) lap=5 point=2 t=98.328 et=856.890</Score>
+<Score et="877.4">Elliott Smith(15) lap=5 point=2 t=100.544 et=877.343</Score>
+<Score et="877.9">Charles Alden(19) lap=5 point=2 t=100.542 et=877.908</Score>
+<Score et="878.6">Ben Sharples(10) lap=5 point=2 t=100.517 et=878.573</Score>
+<Score et="879.7">John Leclair(8) lap=5 point=2 t=100.616 et=879.666</Score>
+<Score et="880.3">John Calhoun(2) lap=5 point=2 t=100.812 et=880.273</Score>
+<Score et="880.7">Joey Gase(12) lap=5 point=2 t=100.712 et=880.723</Score>
+<Score et="881.8">Kevin Harmyer(1) lap=5 point=2 t=101.267 et=881.796</Score>
+<Score et="883.3">Sam Braxton(14) lap=5 point=2 t=100.470 et=883.323</Score>
+<Score et="884.0">Brian Rollins(3) lap=5 point=2 t=100.707 et=884.035</Score>
+<Score et="885.2">Daniel Burruezo(20) lap=6 point=0 t=133.143 et=885.143</Score>
+<Sector et="885.2">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Sector et="885.2">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Score et="885.5">Grant Garfield(6) lap=5 point=2 t=100.317 et=885.520</Score>
+<Score et="885.7">Brian Rolston(9) lap=5 point=2 t=99.915 et=885.666</Score>
+<Score et="886.4">Calvin Hoover(4) lap=5 point=2 t=100.430 et=886.380</Score>
+<Score et="886.7">Clive White(0) lap=5 point=2 t=100.207 et=886.683</Score>
+<Score et="888.3">Bobby Stevens(16) lap=5 point=2 t=100.173 et=888.277</Score>
+<Score et="888.9">John Garner(18) lap=5 point=2 t=100.984 et=888.914</Score>
+<Score et="889.8">Joey Johnson(7) lap=5 point=2 t=100.270 et=889.784</Score>
+<Score et="890.6">Howard Harris(11) lap=5 point=2 t=100.383 et=890.619</Score>
+<Score et="891.2">Josh Boswell(5) lap=5 point=2 t=100.415 et=891.217</Score>
+<Score et="892.1">Todd Hillman(13) lap=5 point=2 t=101.060 et=892.096</Score>
+<Score et="900.0">Rick Lepage(17) lap=6 point=0 t=141.477 et=900.039</Score>
+<Score et="917.6">Daniel Burruezo(20) lap=6 point=1 t=32.446 et=917.589</Score>
+<Sector et="917.6">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Sector et="917.6">Daniel Burruezo(20) set new best for sector 2</Sector>
+<Score et="921.8">Elliott Smith(15) lap=6 point=0 t=145.032 et=921.832</Score>
+<Score et="922.3">Charles Alden(19) lap=6 point=0 t=144.888 et=922.254</Score>
+<Score et="923.3">Ben Sharples(10) lap=6 point=0 t=145.255 et=923.311</Score>
+<Score et="923.9">John Leclair(8) lap=6 point=0 t=144.848 et=923.898</Score>
+<Score et="924.5">John Calhoun(2) lap=6 point=0 t=145.049 et=924.511</Score>
+<Score et="924.7">Joey Gase(12) lap=6 point=0 t=144.651 et=924.662</Score>
+<Score et="925.9">Kevin Harmyer(1) lap=6 point=0 t=145.397 et=925.925</Score>
+<Score et="927.8">Sam Braxton(14) lap=6 point=0 t=144.913 et=927.766</Score>
+<Score et="928.7">Brian Rollins(3) lap=6 point=0 t=145.373 et=928.701</Score>
+<Score et="930.4">Grant Garfield(6) lap=6 point=0 t=145.212 et=930.415</Score>
+<Score et="930.9">Brian Rolston(9) lap=6 point=0 t=145.105 et=930.856</Score>
+<Score et="931.3">Calvin Hoover(4) lap=6 point=0 t=145.324 et=931.273</Score>
+<Score et="931.5">Clive White(0) lap=6 point=0 t=144.977 et=931.453</Score>
+<Score et="933.1">Bobby Stevens(16) lap=6 point=0 t=145.025 et=933.129</Score>
+<Score et="933.6">John Garner(18) lap=6 point=0 t=145.679 et=933.610</Score>
+<Score et="933.9">Joey Johnson(7) lap=6 point=0 t=144.406 et=933.921</Score>
+<Score et="935.0">Howard Harris(11) lap=6 point=0 t=144.735 et=934.970</Score>
+<Score et="935.9">Rick Lepage(17) lap=6 point=1 t=35.832 et=935.871</Score>
+<Score et="935.9">Josh Boswell(5) lap=6 point=0 t=145.097 et=935.898</Score>
+<Score et="936.7">Todd Hillman(13) lap=6 point=0 t=145.703 et=936.739</Score>
+<Score et="958.0">Elliott Smith(15) lap=6 point=1 t=36.138 et=957.970</Score>
+<Score et="958.8">Charles Alden(19) lap=6 point=1 t=36.563 et=958.817</Score>
+<Score et="959.4">Ben Sharples(10) lap=6 point=1 t=36.091 et=959.402</Score>
+<Score et="960.3">John Leclair(8) lap=6 point=1 t=36.373 et=960.271</Score>
+<Score et="960.8">Joey Gase(12) lap=6 point=1 t=36.118 et=960.781</Score>
+<Score et="961.2">John Calhoun(2) lap=6 point=1 t=36.670 et=961.180</Score>
+<Score et="962.1">Kevin Harmyer(1) lap=6 point=1 t=36.213 et=962.138</Score>
+<Score et="964.1">Sam Braxton(14) lap=6 point=1 t=36.288 et=964.054</Score>
+<Score et="965.0">Brian Rollins(3) lap=6 point=1 t=36.289 et=964.990</Score>
+<Score et="966.6">Grant Garfield(6) lap=6 point=1 t=36.171 et=966.586</Score>
+<Score et="967.4">Brian Rolston(9) lap=6 point=1 t=36.561 et=967.417</Score>
+<Score et="968.0">Calvin Hoover(4) lap=6 point=1 t=36.695 et=967.968</Score>
+<Score et="968.5">Clive White(0) lap=6 point=1 t=37.045 et=968.498</Score>
+<Score et="969.5">Bobby Stevens(16) lap=6 point=1 t=36.328 et=969.457</Score>
+<Score et="970.0">John Garner(18) lap=6 point=1 t=36.405 et=970.015</Score>
+<Score et="970.7">Joey Johnson(7) lap=6 point=1 t=36.776 et=970.697</Score>
+<Score et="971.3">Howard Harris(11) lap=6 point=1 t=36.271 et=971.242</Score>
+<Score et="972.4">Josh Boswell(5) lap=6 point=1 t=36.458 et=972.357</Score>
+<Score et="973.1">Todd Hillman(13) lap=6 point=1 t=36.326 et=973.065</Score>
+<Score et="977.1">Daniel Burruezo(20) lap=6 point=2 t=91.990 et=977.133</Score>
+<Sector et="977.1">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Sector et="977.2">Daniel Burruezo(20) set new best for sector 3</Sector>
+<Score et="999.0">Rick Lepage(17) lap=6 point=2 t=98.951 et=998.989</Score>
+<Score et="1017.5">Checkered for Daniel Burruezo, laps=7/2147483647, endET=1017.465881/941.026611, crossedAfterTime=0</Score>
+<Score et="1017.5">Daniel Burruezo(20) lap=7 point=0 t=132.323 et=1017.466</Score>
+<Sector et="1017.5">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Sector et="1017.5">Daniel Burruezo(20) set new best for sector 1</Sector>
+<Score et="1021.7">Elliott Smith(15) lap=6 point=2 t=99.904 et=1021.736</Score>
+<Score et="1023.0">Charles Alden(19) lap=6 point=2 t=100.709 et=1022.962</Score>
+<Score et="1023.6">Ben Sharples(10) lap=6 point=2 t=100.282 et=1023.593</Score>
+<Score et="1024.5">John Leclair(8) lap=6 point=2 t=100.602 et=1024.500</Score>
+<Score et="1025.3">Joey Gase(12) lap=6 point=2 t=100.618 et=1025.281</Score>
+<Score et="1025.5">John Calhoun(2) lap=6 point=2 t=101.009 et=1025.520</Score>
+<Score et="1026.2">Kevin Harmyer(1) lap=6 point=2 t=100.241 et=1026.167</Score>
+<Score et="1028.2">Sam Braxton(14) lap=6 point=2 t=100.408 et=1028.174</Score>
+<Score et="1029.5">Brian Rollins(3) lap=6 point=2 t=100.741 et=1029.443</Score>
+<Score et="1030.8">Grant Garfield(6) lap=6 point=2 t=100.409 et=1030.824</Score>
+<Score et="1031.5">Brian Rolston(9) lap=6 point=2 t=100.619 et=1031.474</Score>
+<Score et="1031.7">Calvin Hoover(4) lap=6 point=2 t=100.458 et=1031.731</Score>
+<Score et="1032.4">Clive White(0) lap=6 point=2 t=100.912 et=1032.365</Score>
+<Score et="1033.8">Bobby Stevens(16) lap=6 point=2 t=100.692 et=1033.821</Score>
+<Score et="1035.4">John Garner(18) lap=6 point=2 t=101.808 et=1035.417</Score>
+<Score et="1035.6">Joey Johnson(7) lap=6 point=2 t=101.716 et=1035.637</Score>
+<Score et="1036.3">Todd Hillman(13) lap=6 point=2 t=99.573 et=1036.313</Score>
+<Score et="1036.4">Howard Harris(11) lap=6 point=2 t=101.393 et=1036.363</Score>
+<Score et="1036.9">Josh Boswell(5) lap=6 point=2 t=101.026 et=1036.924</Score>
+<Score et="1042.2">Rick Lepage(17) lap=7 point=0 t=142.103 et=1042.141</Score>
+<Score et="1066.2">Elliott Smith(15) lap=7 point=0 t=144.354 et=1066.186</Score>
+<Score et="1066.9">Charles Alden(19) lap=7 point=0 t=144.631 et=1066.885</Score>
+<Score et="1067.9">Ben Sharples(10) lap=7 point=0 t=144.626 et=1067.936</Score>
+<Score et="1068.7">John Leclair(8) lap=7 point=0 t=144.767 et=1068.665</Score>
+<Score et="1069.7">Joey Gase(12) lap=7 point=0 t=144.994 et=1069.656</Score>
+<Score et="1070.4">John Calhoun(2) lap=7 point=0 t=145.877 et=1070.387</Score>
+<Score et="1071.0">Kevin Harmyer(1) lap=7 point=0 t=145.094 et=1071.020</Score>
+<Score et="1072.8">Sam Braxton(14) lap=7 point=0 t=145.004 et=1072.770</Score>
+<Score et="1074.0">Brian Rollins(3) lap=7 point=0 t=145.247 et=1073.948</Score>
+<Score et="1075.4">Grant Garfield(6) lap=7 point=0 t=145.000 et=1075.416</Score>
+<Score et="1075.8">Brian Rolston(9) lap=7 point=0 t=144.950 et=1075.805</Score>
+<Score et="1076.1">Calvin Hoover(4) lap=7 point=0 t=144.867 et=1076.140</Score>
+<Score et="1076.9">Clive White(0) lap=7 point=0 t=145.474 et=1076.927</Score>
+<Score et="1078.3">Bobby Stevens(16) lap=7 point=0 t=145.179 et=1078.308</Score>
+<Score et="1079.7">John Garner(18) lap=7 point=0 t=146.055 et=1079.665</Score>
+<Score et="1080.3">Joey Johnson(7) lap=7 point=0 t=146.344 et=1080.265</Score>
+<Score et="1081.1">Howard Harris(11) lap=7 point=0 t=146.158 et=1081.128</Score>
+<Score et="1081.7">Todd Hillman(13) lap=7 point=0 t=145.000 et=1081.740</Score>
+<Score et="1081.9">Josh Boswell(5) lap=7 point=0 t=145.981 et=1081.879</Score>
+<Incident et="1152.2">Daniel Burruezo(20) reported contact (0.03) with Immovable</Incident>
+<Incident et="1152.2">Daniel Burruezo(20) reported contact (0.13) with Immovable</Incident>
+<Incident et="1152.3">Daniel Burruezo(20) reported contact (0.06) with Immovable</Incident>
+<Incident et="1165.9">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+<Incident et="1165.9">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+<Incident et="1165.9">Daniel Burruezo(20) reported contact (0.19) with Immovable</Incident>
+<Incident et="1165.9">Daniel Burruezo(20) reported contact (0.19) with Immovable</Incident>
+<Incident et="1172.2">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+<Incident et="1172.2">Daniel Burruezo(20) reported contact (0.06) with Immovable</Incident>
+<Incident et="1184.2">Daniel Burruezo(20) reported contact (0.48) with Immovable</Incident>
+<Incident et="1184.2">Daniel Burruezo(20) reported contact (0.32) with Immovable</Incident>
+<Incident et="1184.2">Daniel Burruezo(20) reported contact (0.26) with Immovable</Incident>
+<Incident et="1184.2">Daniel Burruezo(20) reported contact (0.06) with Immovable</Incident>
+<Incident et="1184.3">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.35) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.19) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.39) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.23) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.06) with Immovable</Incident>
+<Incident et="1187.4">Daniel Burruezo(20) reported contact (0.10) with Immovable</Incident>
+</Stream>
+<FormationAndStart>0</FormationAndStart>
+<MostLapsCompleted>7</MostLapsCompleted>
+<Driver>
+<Name>Daniel Burruezo</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_1.VEH</VehFile>
+<UpgradeCode>40000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #1</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>1</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>1</GridPos>
+<Position>1</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>8</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="41.0266" s1="43.8438" s2="61.3488" s3="41.2435" fcompound="0,Road Course" rcompound="0,Road Course">146.4361</Lap>
+<Lap num="2" p="1" et="187.4628" s1="32.6981" s2="64.0330" s3="43.0007" fcompound="0,Road Course" rcompound="0,Road Course">139.7318</Lap>
+<Lap num="3" p="1" et="327.1946" s1="32.4852" s2="60.1056" s3="41.8325" fcompound="0,Road Course" rcompound="0,Road Course">134.4232</Lap>
+<Lap num="4" p="1" et="461.6178" s1="41.1745" s2="65.5647" s3="42.7537" fcompound="0,Road Course" rcompound="0,Road Course">149.4930</Lap>
+<Lap num="5" p="1" et="611.1108" s1="37.1689" s2="62.3661" s3="41.3539" fcompound="0,Road Course" rcompound="0,Road Course">140.8889</Lap>
+<Lap num="6" p="1" et="751.9996" s1="32.5515" s2="59.7598" s3="40.8317" fcompound="0,Road Course" rcompound="0,Road Course">133.1430</Lap>
+<Lap num="7" p="1" et="885.1426" s1="32.4462" s2="59.5438" s3="40.3332" fcompound="0,Road Course" rcompound="0,Road Course">132.3232</Lap>
+<BestLapTime>132.3232</BestLapTime>
+<FinishTime>976.4392</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,ABS=1,Clutch,Invulnerable,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Rick Lepage</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_2_GUEST03.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #2</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>2</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>2</GridPos>
+<Position>2</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>5</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="41.0266" s1="43.3018" s2="63.1417" s3="43.3192" fcompound="0,Road Course" rcompound="0,Road Course">149.7627</Lap>
+<Lap num="2" p="2" et="190.7894" s1="35.5203" s2="63.2699" s3="42.9859" fcompound="0,Road Course" rcompound="0,Road Course">141.7760</Lap>
+<Lap num="3" p="2" et="332.5654" s1="35.8550" s2="62.7543" s3="43.1749" fcompound="0,Road Course" rcompound="0,Road Course">141.7842</Lap>
+<Lap num="4" p="2" et="474.3496" s1="35.7356" s2="63.0992" s3="43.0814" fcompound="0,Road Course" rcompound="0,Road Course">141.9162</Lap>
+<Lap num="5" p="2" et="616.2658" s1="35.9365" s2="63.0118" s3="43.3476" fcompound="0,Road Course" rcompound="0,Road Course">142.2959</Lap>
+<Lap num="6" p="2" et="758.5617" s1="35.6924" s2="62.6355" s3="43.1491" fcompound="0,Road Course" rcompound="0,Road Course">141.4771</Lap>
+<Lap num="7" p="2" et="900.0388" s1="35.8318" s2="63.1187" s3="43.1521" fcompound="0,Road Course" rcompound="0,Road Course">142.1026</Lap>
+<BestLapTime>141.4771</BestLapTime>
+<FinishTime>1001.1147</FinishTime>
+<Laps>7</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Kevin Harmyer</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_4.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #4</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>4</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>10</GridPos>
+<Position>9</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>2</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="41.0266" s1="47.3283" s2="65.4203" s3="44.9243" fcompound="0,Road Course" rcompound="0,Road Course">157.6728</Lap>
+<Lap num="2" p="9" et="198.6995" s1="37.5533" s2="65.2987" s3="44.5528" fcompound="0,Road Course" rcompound="0,Road Course">147.4048</Lap>
+<Lap num="3" p="9" et="346.1042" s1="36.5195" s2="64.0517" s3="44.8602" fcompound="0,Road Course" rcompound="0,Road Course">145.4314</Lap>
+<Lap num="4" p="9" et="491.5356" s1="36.2241" s2="64.5981" s3="44.2869" fcompound="0,Road Course" rcompound="0,Road Course">145.1091</Lap>
+<Lap num="5" p="9" et="636.6447" s1="36.2996" s2="63.1281" s3="44.4559" fcompound="0,Road Course" rcompound="0,Road Course">143.8836</Lap>
+<Lap num="6" p="9" et="780.5283" s1="36.8427" s2="64.4246" s3="44.1298" fcompound="0,Road Course" rcompound="0,Road Course">145.3972</Lap>
+<Lap num="7" p="9" et="925.9255" s1="36.2126" s2="64.0286" s3="44.8529" fcompound="0,Road Course" rcompound="0,Road Course">145.0942</Lap>
+<BestLapTime>143.8836</BestLapTime>
+<FinishTime>1029.9930</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>John Leclair</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_17.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #17</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>6</GridPos>
+<Position>6</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="41.0266" s1="46.6002" s2="65.4405" s3="44.8269" fcompound="0,Road Course" rcompound="0,Road Course">156.8675</Lap>
+<Lap num="2" p="6" et="197.8942" s1="36.8100" s2="64.1195" s3="44.8896" fcompound="0,Road Course" rcompound="0,Road Course">145.8191</Lap>
+<Lap num="3" p="6" et="343.7133" s1="36.5855" s2="64.0012" s3="43.5998" fcompound="0,Road Course" rcompound="0,Road Course">144.1865</Lap>
+<Lap num="4" p="6" et="487.8998" s1="37.0214" s2="64.1478" s3="44.6486" fcompound="0,Road Course" rcompound="0,Road Course">145.8177</Lap>
+<Lap num="5" p="6" et="633.7175" s1="36.6728" s2="63.7512" s3="44.9082" fcompound="0,Road Course" rcompound="0,Road Course">145.3322</Lap>
+<Lap num="6" p="6" et="779.0496" s1="36.2604" s2="64.3558" s3="44.2318" fcompound="0,Road Course" rcompound="0,Road Course">144.8481</Lap>
+<Lap num="7" p="6" et="923.8977" s1="36.3729" s2="64.2293" s3="44.1648" fcompound="0,Road Course" rcompound="0,Road Course">144.7670</Lap>
+<BestLapTime>144.1865</BestLapTime>
+<FinishTime>1027.6381</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Joey Gase</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_32.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #32</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>32</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>5</GridPos>
+<Position>7</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="41.0266" s1="47.4126" s2="64.8842" s3="44.6694" fcompound="0,Road Course" rcompound="0,Road Course">156.9662</Lap>
+<Lap num="2" p="8" et="197.9928" s1="37.5053" s2="64.3034" s3="44.6093" fcompound="0,Road Course" rcompound="0,Road Course">146.4180</Lap>
+<Lap num="3" p="8" et="344.4108" s1="37.0752" s2="64.6330" s3="44.7552" fcompound="0,Road Course" rcompound="0,Road Course">146.4634</Lap>
+<Lap num="4" p="8" et="490.8742" s1="36.0474" s2="64.3195" s3="44.5375" fcompound="0,Road Course" rcompound="0,Road Course">144.9044</Lap>
+<Lap num="5" p="8" et="635.7786" s1="36.3839" s2="63.3095" s3="44.5392" fcompound="0,Road Course" rcompound="0,Road Course">144.2326</Lap>
+<Lap num="6" p="8" et="780.0112" s1="36.6656" s2="64.0460" s3="43.9395" fcompound="0,Road Course" rcompound="0,Road Course">144.6511</Lap>
+<Lap num="7" p="7" et="924.6623" s1="36.1184" s2="64.4998" s3="44.3759" fcompound="0,Road Course" rcompound="0,Road Course">144.9941</Lap>
+<BestLapTime>144.2326</BestLapTime>
+<FinishTime>1028.6298</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>John Calhoun</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_22.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #22</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>22</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>8</GridPos>
+<Position>8</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>2</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="41.0266" s1="46.9773" s2="66.0514" s3="44.4667" fcompound="0,Road Course" rcompound="0,Road Course">157.4955</Lap>
+<Lap num="2" p="7" et="198.5221" s1="36.7504" s2="64.0558" s3="44.9081" fcompound="0,Road Course" rcompound="0,Road Course">145.7144</Lap>
+<Lap num="3" p="7" et="344.2365" s1="36.5638" s2="64.0919" s3="44.5505" fcompound="0,Road Course" rcompound="0,Road Course">145.2063</Lap>
+<Lap num="4" p="7" et="489.4427" s1="36.2097" s2="64.8206" s3="44.6401" fcompound="0,Road Course" rcompound="0,Road Course">145.6704</Lap>
+<Lap num="5" p="7" et="635.1132" s1="36.1384" s2="63.6882" s3="44.5217" fcompound="0,Road Course" rcompound="0,Road Course">144.3483</Lap>
+<Lap num="6" p="7" et="779.4614" s1="36.6254" s2="64.1866" s3="44.2372" fcompound="0,Road Course" rcompound="0,Road Course">145.0493</Lap>
+<Lap num="7" p="8" et="924.5107" s1="36.6696" s2="64.3395" s3="44.8676" fcompound="0,Road Course" rcompound="0,Road Course">145.8766</Lap>
+<BestLapTime>144.3483</BestLapTime>
+<FinishTime>1029.3607</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Elliott Smith</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_13.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #13</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>13</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>4</GridPos>
+<Position>3</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>3</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="41.0266" s1="45.9893" s2="64.6722" s3="44.5085" fcompound="0,Road Course" rcompound="0,Road Course">155.1700</Lap>
+<Lap num="2" p="3" et="196.1967" s1="36.2194" s2="64.4289" s3="44.4895" fcompound="0,Road Course" rcompound="0,Road Course">145.1378</Lap>
+<Lap num="3" p="3" et="341.3344" s1="36.3080" s2="64.5740" s3="44.5338" fcompound="0,Road Course" rcompound="0,Road Course">145.4158</Lap>
+<Lap num="4" p="3" et="486.7502" s1="36.2508" s2="64.4512" s3="44.3181" fcompound="0,Road Course" rcompound="0,Road Course">145.0201</Lap>
+<Lap num="5" p="3" et="631.7703" s1="36.1777" s2="64.1949" s3="44.6567" fcompound="0,Road Course" rcompound="0,Road Course">145.0293</Lap>
+<Lap num="6" p="3" et="776.7996" s1="36.1139" s2="64.4300" s3="44.4886" fcompound="0,Road Course" rcompound="0,Road Course">145.0325</Lap>
+<Lap num="7" p="3" et="921.8320" s1="36.1382" s2="63.7657" s3="44.4504" fcompound="0,Road Course" rcompound="0,Road Course">144.3544</Lap>
+<BestLapTime>144.3544</BestLapTime>
+<FinishTime>1025.1598</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Joey Johnson</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_24.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #24</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>24</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>21</GridPos>
+<Position>18</Position>
+<ClassGridPos>9</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="19" et="41.0266" s1="50.2950" s2="66.3465" s3="45.6709" fcompound="0,Road Course" rcompound="0,Road Course">162.3124</Lap>
+<Lap num="2" p="20" et="203.3390" s1="37.7371" s2="65.7726" s3="45.0163" fcompound="0,Road Course" rcompound="0,Road Course">148.5260</Lap>
+<Lap num="3" p="19" et="351.8650" s1="36.5701" s2="64.6157" s3="44.5659" fcompound="0,Road Course" rcompound="0,Road Course">145.7516</Lap>
+<Lap num="4" p="18" et="497.6167" s1="36.6436" s2="65.1904" s3="44.4379" fcompound="0,Road Course" rcompound="0,Road Course">146.2719</Lap>
+<Lap num="5" p="18" et="643.8886" s1="36.5671" s2="64.7214" s3="44.3373" fcompound="0,Road Course" rcompound="0,Road Course">145.6259</Lap>
+<Lap num="6" p="18" et="789.5145" s1="36.0922" s2="64.1774" s3="44.1369" fcompound="0,Road Course" rcompound="0,Road Course">144.4064</Lap>
+<Lap num="7" p="18" et="933.9209" s1="36.7765" s2="64.9393" s3="44.6285" fcompound="0,Road Course" rcompound="0,Road Course">146.3444</Lap>
+<BestLapTime>144.4064</BestLapTime>
+<FinishTime>1039.2386</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Charles Alden</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_23.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Titan #23</VehName>
+<Category>StockCar, 2015 Titan StockCar</Category>
+<CarType>2015 Titan StockCar</CarType>
+<CarClass>2015 Titan StockCar</CarClass>
+<CarNumber>23</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>9</GridPos>
+<Position>4</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>2</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="41.0266" s1="46.9942" s2="64.6688" s3="44.8957" fcompound="0,Road Course" rcompound="0,Road Course">156.5587</Lap>
+<Lap num="2" p="5" et="197.5854" s1="36.2452" s2="64.7146" s3="44.7169" fcompound="0,Road Course" rcompound="0,Road Course">145.6767</Lap>
+<Lap num="3" p="5" et="343.2621" s1="36.3983" s2="64.1071" s3="43.9099" fcompound="0,Road Course" rcompound="0,Road Course">144.4153</Lap>
+<Lap num="4" p="4" et="487.6773" s1="36.6874" s2="63.7998" s3="44.3936" fcompound="0,Road Course" rcompound="0,Road Course">144.8808</Lap>
+<Lap num="5" p="4" et="632.5581" s1="36.1848" s2="64.2507" s3="44.3723" fcompound="0,Road Course" rcompound="0,Road Course">144.8077</Lap>
+<Lap num="6" p="4" et="777.3658" s1="36.2316" s2="64.3109" s3="44.3456" fcompound="0,Road Course" rcompound="0,Road Course">144.8881</Lap>
+<Lap num="7" p="4" et="922.2539" s1="36.5635" s2="64.1451" s3="43.9227" fcompound="0,Road Course" rcompound="0,Road Course">144.6312</Lap>
+<BestLapTime>144.4153</BestLapTime>
+<FinishTime>1025.8585</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ben Sharples</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_14.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #14</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>3</GridPos>
+<Position>5</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>1</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="41.0266" s1="46.5038" s2="64.6950" s3="44.6234" fcompound="0,Road Course" rcompound="0,Road Course">155.8222</Lap>
+<Lap num="2" p="4" et="196.8488" s1="36.1291" s2="64.2157" s3="44.9362" fcompound="0,Road Course" rcompound="0,Road Course">145.2810</Lap>
+<Lap num="3" p="4" et="342.1299" s1="36.2709" s2="64.2454" s3="44.7600" fcompound="0,Road Course" rcompound="0,Road Course">145.2763</Lap>
+<Lap num="4" p="5" et="487.4061" s1="36.4568" s2="64.7472" s3="44.7894" fcompound="0,Road Course" rcompound="0,Road Course">145.9934</Lap>
+<Lap num="5" p="5" et="633.3995" s1="36.2024" s2="64.2150" s3="44.2390" fcompound="0,Road Course" rcompound="0,Road Course">144.6564</Lap>
+<Lap num="6" p="5" et="778.0559" s1="36.2263" s2="64.2911" s3="44.7374" fcompound="0,Road Course" rcompound="0,Road Course">145.2548</Lap>
+<Lap num="7" p="5" et="923.3107" s1="36.0912" s2="64.1912" s3="44.3431" fcompound="0,Road Course" rcompound="0,Road Course">144.6255</Lap>
+<BestLapTime>144.6255</BestLapTime>
+<FinishTime>1026.9097</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Bobby Stevens</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #9</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>9</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>15</GridPos>
+<Position>16</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="41.0266" s1="49.3246" s2="66.3326" s3="44.9991" fcompound="0,Road Course" rcompound="0,Road Course">160.6564</Lap>
+<Lap num="2" p="14" et="201.6830" s1="36.5531" s2="64.9900" s3="45.2403" fcompound="0,Road Course" rcompound="0,Road Course">146.7834</Lap>
+<Lap num="3" p="14" et="348.4664" s1="36.9956" s2="64.8089" s3="44.8269" fcompound="0,Road Course" rcompound="0,Road Course">146.6315</Lap>
+<Lap num="4" p="17" et="495.0979" s1="37.0775" s2="66.2666" s3="45.0080" fcompound="0,Road Course" rcompound="0,Road Course">148.3521</Lap>
+<Lap num="5" p="17" et="643.4500" s1="36.3113" s2="63.7595" s3="44.5833" fcompound="0,Road Course" rcompound="0,Road Course">144.6541</Lap>
+<Lap num="6" p="16" et="788.1041" s1="35.7969" s2="64.3760" s3="44.8524" fcompound="0,Road Course" rcompound="0,Road Course">145.0253</Lap>
+<Lap num="7" p="16" et="933.1295" s1="36.3279" s2="64.3636" s3="44.4869" fcompound="0,Road Course" rcompound="0,Road Course">145.1785</Lap>
+<BestLapTime>144.6541</BestLapTime>
+<FinishTime>1037.2814</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Calvin Hoover</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_66.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Titan #66</VehName>
+<Category>StockCar, 2015 Titan StockCar</Category>
+<CarType>2015 Titan StockCar</CarType>
+<CarClass>2015 Titan StockCar</CarClass>
+<CarNumber>66</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>12</GridPos>
+<Position>14</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="41.0266" s1="47.9808" s2="65.2588" s3="46.5304" fcompound="0,Road Course" rcompound="0,Road Course">159.7700</Lap>
+<Lap num="2" p="12" et="200.7966" s1="37.0119" s2="64.8989" s3="45.1832" fcompound="0,Road Course" rcompound="0,Road Course">147.0940</Lap>
+<Lap num="3" p="13" et="347.8907" s1="37.1855" s2="64.9503" s3="44.7294" fcompound="0,Road Course" rcompound="0,Road Course">146.8652</Lap>
+<Lap num="4" p="14" et="494.7559" s1="36.9743" s2="64.3271" s3="45.1904" fcompound="0,Road Course" rcompound="0,Road Course">146.4918</Lap>
+<Lap num="5" p="14" et="641.2477" s1="36.3707" s2="63.4816" s3="44.8492" fcompound="0,Road Course" rcompound="0,Road Course">144.7015</Lap>
+<Lap num="6" p="14" et="785.9492" s1="36.5328" s2="63.8976" s3="44.8935" fcompound="0,Road Course" rcompound="0,Road Course">145.3239</Lap>
+<Lap num="7" p="14" et="931.2730" s1="36.6945" s2="63.7635" s3="44.4084" fcompound="0,Road Course" rcompound="0,Road Course">144.8665</Lap>
+<BestLapTime>144.7015</BestLapTime>
+<FinishTime>1035.1129</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Howard Harris</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_42.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #42</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>42</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>13</GridPos>
+<Position>19</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="41.0266" s1="49.1206" s2="66.8477" s3="45.2234" fcompound="0,Road Course" rcompound="0,Road Course">161.1918</Lap>
+<Lap num="2" p="16" et="202.2184" s1="36.8331" s2="65.1439" s3="44.8804" fcompound="0,Road Course" rcompound="0,Road Course">146.8574</Lap>
+<Lap num="3" p="16" et="349.0758" s1="37.3557" s2="64.5446" s3="45.2559" fcompound="0,Road Course" rcompound="0,Road Course">147.1561</Lap>
+<Lap num="4" p="19" et="496.2319" s1="36.8681" s2="65.5329" s3="45.4957" fcompound="0,Road Course" rcompound="0,Road Course">147.8967</Lap>
+<Lap num="5" p="19" et="644.1286" s1="37.0188" s2="64.6083" s3="44.4800" fcompound="0,Road Course" rcompound="0,Road Course">146.1071</Lap>
+<Lap num="6" p="19" et="790.2357" s1="36.2599" s2="64.1229" s3="44.3518" fcompound="0,Road Course" rcompound="0,Road Course">144.7346</Lap>
+<Lap num="7" p="19" et="934.9703" s1="36.2712" s2="65.1217" s3="44.7646" fcompound="0,Road Course" rcompound="0,Road Course">146.1576</Lap>
+<BestLapTime>144.7346</BestLapTime>
+<FinishTime>1040.1013</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sam Braxton</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_41.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #41</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>41</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>16</GridPos>
+<Position>10</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="41.0266" s1="48.7358" s2="65.9054" s3="43.4955" fcompound="0,Road Course" rcompound="0,Road Course">158.1367</Lap>
+<Lap num="2" p="10" et="199.1634" s1="37.9312" s2="65.0856" s3="44.7311" fcompound="0,Road Course" rcompound="0,Road Course">147.7479</Lap>
+<Lap num="3" p="10" et="346.9113" s1="36.2312" s2="64.0381" s3="44.5388" fcompound="0,Road Course" rcompound="0,Road Course">144.8082</Lap>
+<Lap num="4" p="10" et="491.7195" s1="36.8441" s2="64.4332" s3="44.3801" fcompound="0,Road Course" rcompound="0,Road Course">145.6574</Lap>
+<Lap num="5" p="10" et="637.3769" s1="36.3293" s2="64.4459" s3="44.7010" fcompound="0,Road Course" rcompound="0,Road Course">145.4762</Lap>
+<Lap num="6" p="10" et="782.8531" s1="36.2414" s2="64.2286" s3="44.4427" fcompound="0,Road Course" rcompound="0,Road Course">144.9128</Lap>
+<Lap num="7" p="10" et="927.7659" s1="36.2879" s2="64.1199" s3="44.5964" fcompound="0,Road Course" rcompound="0,Road Course">145.0043</Lap>
+<BestLapTime>144.8082</BestLapTime>
+<FinishTime>1031.7435</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Brian Rolston</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_2.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #2</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>2</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>17</GridPos>
+<Position>13</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="17" et="41.0266" s1="49.6858" s2="67.5244" s3="44.4855" fcompound="0,Road Course" rcompound="0,Road Course">161.6957</Lap>
+<Lap num="2" p="15" et="202.7224" s1="37.1986" s2="63.6448" s3="45.2766" fcompound="0,Road Course" rcompound="0,Road Course">146.1201</Lap>
+<Lap num="3" p="15" et="348.8424" s1="37.1931" s2="64.5253" s3="44.7331" fcompound="0,Road Course" rcompound="0,Road Course">146.4515</Lap>
+<Lap num="4" p="13" et="495.2939" s1="35.8621" s2="64.4551" s3="45.1627" fcompound="0,Road Course" rcompound="0,Road Course">145.4798</Lap>
+<Lap num="5" p="13" et="640.7737" s1="36.2717" s2="64.1442" s3="44.5610" fcompound="0,Road Course" rcompound="0,Road Course">144.9769</Lap>
+<Lap num="6" p="13" et="785.7507" s1="36.2032" s2="63.7119" s3="45.1898" fcompound="0,Road Course" rcompound="0,Road Course">145.1049</Lap>
+<Lap num="7" p="13" et="930.8556" s1="36.5613" s2="64.0573" s3="44.3309" fcompound="0,Road Course" rcompound="0,Road Course">144.9496</Lap>
+<BestLapTime>144.9496</BestLapTime>
+<FinishTime>1034.7786</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Brian Rollins</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_33.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #33</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>33</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>7</GridPos>
+<Position>11</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="41.0266" s1="47.6756" s2="65.8139" s3="46.3820" fcompound="0,Road Course" rcompound="0,Road Course">159.8714</Lap>
+<Lap num="2" p="11" et="200.8981" s1="36.5558" s2="64.9787" s3="45.1037" fcompound="0,Road Course" rcompound="0,Road Course">146.6381</Lap>
+<Lap num="3" p="11" et="347.5362" s1="36.4859" s2="64.7210" s3="44.6602" fcompound="0,Road Course" rcompound="0,Road Course">145.8671</Lap>
+<Lap num="4" p="11" et="493.4032" s1="36.3127" s2="64.2961" s3="44.3587" fcompound="0,Road Course" rcompound="0,Road Course">144.9676</Lap>
+<Lap num="5" p="11" et="638.3708" s1="36.4879" s2="63.9768" s3="44.4924" fcompound="0,Road Course" rcompound="0,Road Course">144.9572</Lap>
+<Lap num="6" p="11" et="783.3279" s1="36.3832" s2="64.3240" s3="44.6663" fcompound="0,Road Course" rcompound="0,Road Course">145.3735</Lap>
+<Lap num="7" p="11" et="928.7014" s1="36.2890" s2="64.4523" s3="44.5055" fcompound="0,Road Course" rcompound="0,Road Course">145.2468</Lap>
+<BestLapTime>144.9572</BestLapTime>
+<FinishTime>1032.9216</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Clive White</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_19.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Titan #19</VehName>
+<Category>StockCar, 2015 Titan StockCar</Category>
+<CarType>2015 Titan StockCar</CarType>
+<CarClass>2015 Titan StockCar</CarClass>
+<CarNumber>19</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>11</GridPos>
+<Position>15</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>2</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="41.0266" s1="48.3496" s2="66.9427" s3="45.4961" fcompound="0,Road Course" rcompound="0,Road Course">160.7883</Lap>
+<Lap num="2" p="17" et="201.8150" s1="37.6741" s2="65.1153" s3="44.7723" fcompound="0,Road Course" rcompound="0,Road Course">147.5617</Lap>
+<Lap num="3" p="17" et="349.3767" s1="37.4937" s2="64.3960" s3="45.1260" fcompound="0,Road Course" rcompound="0,Road Course">147.0157</Lap>
+<Lap num="4" p="15" et="496.3924" s1="36.2614" s2="63.6621" s3="45.1640" fcompound="0,Road Course" rcompound="0,Road Course">145.0876</Lap>
+<Lap num="5" p="15" et="641.4799" s1="36.5115" s2="63.7880" s3="44.6971" fcompound="0,Road Course" rcompound="0,Road Course">144.9965</Lap>
+<Lap num="6" p="15" et="786.4764" s1="36.4235" s2="63.7833" s3="44.7699" fcompound="0,Road Course" rcompound="0,Road Course">144.9766</Lap>
+<Lap num="7" p="15" et="931.4531" s1="37.0453" s2="63.8663" s3="44.5623" fcompound="0,Road Course" rcompound="0,Road Course">145.4739</Lap>
+<BestLapTime>144.9766</BestLapTime>
+<FinishTime>1035.9004</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Grant Garfield</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_15.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Titan #15</VehName>
+<Category>StockCar, 2015 Titan StockCar</Category>
+<CarType>2015 Titan StockCar</CarType>
+<CarClass>2015 Titan StockCar</CarClass>
+<CarNumber>15</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>14</GridPos>
+<Position>12</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="41.0266" s1="49.0840" s2="65.8590" s3="45.5000" fcompound="0,Road Course" rcompound="0,Road Course">160.4430</Lap>
+<Lap num="2" p="13" et="201.4697" s1="37.2747" s2="64.2008" s3="45.1187" fcompound="0,Road Course" rcompound="0,Road Course">146.5942</Lap>
+<Lap num="3" p="12" et="348.0638" s1="36.4543" s2="64.5449" s3="45.1036" fcompound="0,Road Course" rcompound="0,Road Course">146.1028</Lap>
+<Lap num="4" p="12" et="494.1667" s1="36.3466" s2="64.6800" s3="44.7451" fcompound="0,Road Course" rcompound="0,Road Course">145.7717</Lap>
+<Lap num="5" p="12" et="639.9384" s1="36.4360" s2="64.2744" s3="44.5543" fcompound="0,Road Course" rcompound="0,Road Course">145.2646</Lap>
+<Lap num="6" p="12" et="785.2030" s1="36.2187" s2="64.0978" s3="44.8957" fcompound="0,Road Course" rcompound="0,Road Course">145.2122</Lap>
+<Lap num="7" p="12" et="930.4152" s1="36.1713" s2="64.2374" s3="44.5918" fcompound="0,Road Course" rcompound="0,Road Course">145.0004</Lap>
+<BestLapTime>145.0004</BestLapTime>
+<FinishTime>1034.3890</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Todd Hillman</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_40.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Centennial #40</VehName>
+<Category>StockCar, 2015 Centennial StockCar</Category>
+<CarType>2015 Centennial StockCar</CarType>
+<CarClass>2015 Centennial StockCar</CarClass>
+<CarNumber>40</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>18</GridPos>
+<Position>20</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Lap num="1" p="20" et="41.0266" s1="49.9254" s2="67.6546" s3="44.9623" fcompound="0,Road Course" rcompound="0,Road Course">162.5424</Lap>
+<Lap num="2" p="19" et="203.5690" s1="37.1557" s2="65.7401" s3="44.7368" fcompound="0,Road Course" rcompound="0,Road Course">147.6326</Lap>
+<Lap num="3" p="20" et="351.2016" s1="36.6231" s2="65.8868" s3="44.1683" fcompound="0,Road Course" rcompound="0,Road Course">146.6782</Lap>
+<Lap num="4" p="21" et="497.8797" s1="37.3703" s2="65.4237" s3="44.8513" fcompound="0,Road Course" rcompound="0,Road Course">147.6454</Lap>
+<Lap num="5" p="21" et="645.5251" s1="36.6227" s2="64.2144" s3="44.6736" fcompound="0,Road Course" rcompound="0,Road Course">145.5107</Lap>
+<Lap num="6" p="21" et="791.0358" s1="37.0435" s2="64.0166" s3="44.6434" fcompound="0,Road Course" rcompound="0,Road Course">145.7035</Lap>
+<Lap num="7" p="20" et="936.7393" s1="36.3259" s2="63.2474" s3="45.4272" fcompound="0,Road Course" rcompound="0,Road Course">145.0005</Lap>
+<BestLapTime>145.0005</BestLapTime>
+<FinishTime>1040.7131</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Josh Boswell</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_55.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Titan #55</VehName>
+<Category>StockCar, 2015 Titan StockCar</Category>
+<CarType>2015 Titan StockCar</CarType>
+<CarClass>2015 Titan StockCar</CarClass>
+<CarNumber>55</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>19</GridPos>
+<Position>21</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="41.0266" s1="50.7324" s2="67.3934" s3="45.1821" fcompound="0,Road Course" rcompound="0,Road Course">163.3079</Lap>
+<Lap num="2" p="21" et="204.3345" s1="37.6011" s2="65.3160" s3="45.2638" fcompound="0,Road Course" rcompound="0,Road Course">148.1808</Lap>
+<Lap num="3" p="21" et="352.5154" s1="36.7432" s2="64.9693" s3="44.3636" fcompound="0,Road Course" rcompound="0,Road Course">146.0761</Lap>
+<Lap num="4" p="20" et="498.5914" s1="37.2513" s2="63.9799" s3="44.3390" fcompound="0,Road Course" rcompound="0,Road Course">145.5703</Lap>
+<Lap num="5" p="20" et="644.1617" s1="37.6642" s2="64.2007" s3="44.7750" fcompound="0,Road Course" rcompound="0,Road Course">146.6400</Lap>
+<Lap num="6" p="20" et="790.8016" s1="36.6062" s2="63.8089" s3="44.6815" fcompound="0,Road Course" rcompound="0,Road Course">145.0966</Lap>
+<Lap num="7" p="21" et="935.8983" s1="36.4584" s2="64.5674" s3="44.9552" fcompound="0,Road Course" rcompound="0,Road Course">145.9810</Lap>
+<BestLapTime>145.0966</BestLapTime>
+<FinishTime>1040.8527</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>John Garner</Name>
+<Connected>1</Connected>
+<VehFile>SC2015_43.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>SC2015 Edgar GT #43</VehName>
+<Category>StockCar, 2015 Edgar GT StockCar</Category>
+<CarType>2015 Edgar GT StockCar</CarType>
+<CarClass>2015 Edgar GT StockCar</CarClass>
+<CarNumber>43</CarNumber>
+<TeamName>ISI Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>20</GridPos>
+<Position>17</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Lap num="1" p="18" et="41.0266" s1="49.5934" s2="66.7290" s3="45.5214" fcompound="0,Road Course" rcompound="0,Road Course">161.8439</Lap>
+<Lap num="2" p="18" et="202.8705" s1="37.4001" s2="65.7363" s3="43.9129" fcompound="0,Road Course" rcompound="0,Road Course">147.0493</Lap>
+<Lap num="3" p="18" et="349.9198" s1="37.3253" s2="65.5122" s3="44.0245" fcompound="0,Road Course" rcompound="0,Road Course">146.8620</Lap>
+<Lap num="4" p="16" et="496.7818" s1="37.0189" s2="64.9157" s3="43.7166" fcompound="0,Road Course" rcompound="0,Road Course">145.6512</Lap>
+<Lap num="5" p="16" et="642.4330" s1="36.7338" s2="64.0607" s3="44.7028" fcompound="0,Road Course" rcompound="0,Road Course">145.4972</Lap>
+<Lap num="6" p="17" et="787.9302" s1="36.3623" s2="64.6213" s3="44.6958" fcompound="0,Road Course" rcompound="0,Road Course">145.6794</Lap>
+<Lap num="7" p="17" et="933.6096" s1="36.4055" s2="65.4024" s3="44.2472" fcompound="0,Road Course" rcompound="0,Road Course">146.0551</Lap>
+<BestLapTime>145.4972</BestLapTime>
+<FinishTime>1038.6381</FinishTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">UnknownControl</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>
