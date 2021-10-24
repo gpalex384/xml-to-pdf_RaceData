@@ -11,3 +11,5 @@ Para generar el ejecutable, hay que:
 
 Una vez conseguido el ejecutable, se ejecuta y aparece una interfaz en la que se escogen un par de parámetros opcionalmente.
 Se pulsa "Examinar", se escoge el XML de la carrera, y el programa genera el PDF correspondiente.
+
+El repositorio incluye dos XML de ejemplo.
