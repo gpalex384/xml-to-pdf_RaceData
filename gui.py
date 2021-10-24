@@ -186,6 +186,7 @@ def generar_pdf(titulo_pdf, datos_carrera):
     for clave in datos_carrera.keys():
         if clave.startswith('Piloto'):
             if datos_carrera[clave]['Humano'] == 'si':
+            #if datos_carrera[clave]['Humano'] == 'si' or datos_carrera[clave]['Humano'] == 'no':
                 x_position=x_position+x_padding
                 y_position=y_startgrid-2*y_padding+3
                 mejor_tiempo_piloto=datos_carrera[clave]['Mejor_tiempo_vuelta']
@@ -385,7 +386,7 @@ def extrae_info_xml(doc):
         dic_carrera[piloto_key]=dic_piloto
         dic_carrera['Numero_Pilotos']=num_pilotos
     #print(dic_carrera['Piloto_1']['Vuelta_3']['Sector_2'])
-    titulo_archivo='C:/Sesiones_pdf/'+tipo_sesion+'_'+fechaHora.replace('/', '_').replace(':', '')+'_'+pista+'.pdf'
+    titulo_archivo=tipo_sesion+'_'+fechaHora.replace('/', '_').replace(':', '')+'_'+pista+'.pdf'
     generar_pdf(titulo_archivo, dic_carrera)
 
 #MÉTODO SELECCIONAR ARCHIVO
